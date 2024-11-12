@@ -57,7 +57,7 @@ nav ul li a{
 
 .main_heading{
     /* border : 2px solid white; */
-    height: auto;
+    height : auto;
     font-size: 130px;
     color: white;
     font-weight: 700;
@@ -67,12 +67,6 @@ nav ul li a{
     padding-left: 90px;
 
 }
-
-
-.main_heading span{
-    display: block;
-}
-
 
 #red_head{
     color: red;
