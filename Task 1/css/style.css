@@ -88,7 +88,7 @@ nav ul li a{
     /* border: 2px solid black; */
     color: black;
     justify-content: space-around;    
-    padding-bottom: 70px;
+    padding-bottom: 130px;
 }
 
 .section_info img{
@@ -128,3 +128,79 @@ nav ul li a{
     background-color: #E40000;
     color: #E40000;;
 }
+
+
+/* footer CSS */
+
+footer{
+    width: 100vw;
+    height: 270px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.business_heading_tab{
+    width: 310px;
+    margin-left: 160px;
+    padding-top: 2rem;
+}
+
+.business_heading_tab h2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 55px;
+    font-weight: 700;
+}
+
+.business_heading_tab h2 span{
+    color: #E40000;
+}
+
+.dortex_link_side{
+    display: flex;
+    flex-direction: column;
+    margin-right: 120px;
+}
+
+.icon_bar{
+    padding-top: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.icon_bar img{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+
+}
+
+.logo_footer{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.logo_footer_dortex img{
+    width: 116px;
+    height: 117px;
+}
+
+.heading_By_dortex{
+    width: 165px;
+    height: 81px;
+}
+
+.heading_By_dortex h3{
+    color: white;
+    font-size: 25px;
+    line-height: 42.5px;
+    font-weight: 400;
+}
+
+.heading_By_dortex h3 span{
+    color: #E40000;
+}
+
